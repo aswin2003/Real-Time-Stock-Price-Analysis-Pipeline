@@ -8,14 +8,12 @@ This project is designed to retrieve real-time stock data, perform streaming dat
 
 ## Table of Contents
 
-- [Prerequisites](#prerequisites)
 - [Getting Started](#getting-started)
 - [Project Structure](#project-structure)
 - [Project Components](#project-components)
 - [Data Flow](#data-flow)
 - [Dashboard Preview](#dashboard-preview)
 - [Configuration](#configuration)
-- [Contributing](#contributing)
 
 ## Prerequisites
 
