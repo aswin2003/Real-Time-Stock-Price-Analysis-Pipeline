@@ -28,27 +28,20 @@ Before you begin, ensure you have met the following requirements:
 
 ## Getting Started
 
-To get started with this project, follow these steps:
 
-1. Clone the repository to your local machine:
-
-   ```bash
-   git clone [https://github.com/JawaharRamis/stock-price-analysis-kafka-spark-influxdb-grafana.git]
-   ```
-
-2. Change to the project directory:
+1. Change to the project directory:
 
    ```bash
    cd real-time-stock-analysis
    ```
 
-3. Run the Docker Compose file to set up the project environment:
+2. Run the Docker Compose file to set up the project environment:
 
    ```bash
    docker-compose up -d
    ```
 
-4. Access the different services:
+3. Access the different services:
 
    - Apache Kafka: http://localhost:9092
    - Apache Spark: http://localhost:8080
@@ -136,20 +129,6 @@ The real-time stock monitoring dashboard provides a comprehensive view of stock 
 
 This dashboard allows you to track stock prices, analyze trends, and make informed decisions. Explore historical data, monitor real-time updates, and gain valuable insights into the stock market.
 
-
-## Configuration
-
-- Configuration for various services, such as Kafka, Spark, InfluxDB, and Grafana, can be found in the `docker-compose.yml` file.
-
-- Environment variables can be configured in the `.env` file.
-
-## Contributing
-
-Contributions to this project are welcome! To contribute:
-
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix.
-3. Make your changes and submit a pull request.
 
 
 
